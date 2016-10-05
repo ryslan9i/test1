@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 awrweartawrgesdrhrthdrwqrfqwrqrqwqr
+=======
+awrweartawrgesdrhrthdrwqrfqwrqrqwqrDWDQeeqeq
+GREEWTGWAZTGEW4T
+>>>>>>> refs/remotes/origin/test
